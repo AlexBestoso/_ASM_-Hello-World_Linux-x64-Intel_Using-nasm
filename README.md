@@ -1,6 +1,10 @@
 # _ASM_-Hello-World_Linux-x64-Intel_Using-nasm
 
-compile using [code]nasm -felf64 hello.asm -o hello.o[/code] and [code]ld hello.o -o helloWorld[/code]
+compile using 
+    nasm -felf64 hello.asm -o hello.o
+
+and 
+    ld hello.o -o helloWorld
 
 repository for bestosotech link.
 
