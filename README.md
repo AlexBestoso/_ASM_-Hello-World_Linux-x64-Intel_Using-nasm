@@ -4,7 +4,7 @@ compile using 'nasm -felf64 hello.asm -o hello.o' and 'ld hello.o -o helloWorld'
 
 repository for bestosotech link.
 
-This is the code from my post over at http://bestosotech.com/blog.php?tab=Code&selected=1&page=(ASM) Hello World - Linux x64 Intel Using nasm
+This is the code from my post over at http://bestosotech.com/blog.php?tab=Code&selected=1&page=(ASM)+Hello+World+-+Linux+x64+Intel+Using+nasm
 
 I posted this verson of my hello world as a display piece.
 
